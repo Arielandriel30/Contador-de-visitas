@@ -1,0 +1,30 @@
+[
+    {
+        "Nombre": "Ariel",
+        "Planeta": "saturno"
+    },
+    {
+        "Nombre": "Ariel",
+        "Planeta": "pluton"
+    },
+    {
+        "Nombre": "Ludmila",
+        "Planeta": "pluton"
+    },
+    {
+        "Nombre": "Javier",
+        "Planeta": "pluton"
+    },
+    {
+        "Nombre": "Jorgelui",
+        "Planeta": "Tierra"
+    },
+    {
+        "Nombre": "Lorenzo",
+        "Planeta": "Ceres"
+    },
+    {
+        "Nombre": "Lorenzo",
+        "Planeta": "jupiter"
+    }
+]
